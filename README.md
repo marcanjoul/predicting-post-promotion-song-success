@@ -1,2 +1,2 @@
-# Would I Like This Song?
-A ML model that predicts whether you like a song or no based on data from songs you like
+# Predicting Post-promotion Song Success
+A ML model that predicts whether a song is likely to be a hit, so that promotional decisions can be made easier

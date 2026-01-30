@@ -1,2 +1,2 @@
 # Predicting Post-promotion Song Success
-A ML model that predicts whether a song is likely to be a hit, so that promotional decisions can be made easier
+Given a song has already been released and promoted, can we predict whether it will sustain high listener engagement using audio features?
